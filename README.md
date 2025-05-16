@@ -23,3 +23,17 @@ lista de tarefas
 - [x] prender python
 - [ ] testenado
 ![ethan-rodriguez-miguel-render-1](https://github.com/user-attachments/assets/ef02d5da-c7b4-4036-a2a0-e1530ff3ec7d)
+
+Num | Nome | Nota
+---|---|---
+1|Teste|0,0
+
+teste de comando, epenas um codigo aleatorio de python `print('teste')`
+
+trechos de programas 
+```
+tes = "teste de git"
+print(test)
+
+
+```
